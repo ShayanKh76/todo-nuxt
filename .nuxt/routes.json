@@ -1,0 +1,16 @@
+[
+  {
+    "name": "inspire",
+    "path": "/inspire",
+    "component": "/Users/shayankhalighi/Desktop/Projects/todo-nuxt/pages/inspire.vue",
+    "chunkName": "pages/inspire",
+    "_name": "_74ffe8ee"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/shayankhalighi/Desktop/Projects/todo-nuxt/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_61c0d1e6"
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "NuxtLogo": {
+    "description": "Auto imported from components/NuxtLogo.vue"
+  },
+  "UserCard": {
+    "description": "Auto imported from components/UserCard.vue"
+  },
+  "UserCardDoing": {
+    "description": "Auto imported from components/UserCardDoing.vue"
+  },
+  "UserCardDone": {
+    "description": "Auto imported from components/UserCardDone.vue"
+  },
+  "VuetifyLogo": {
+    "description": "Auto imported from components/VuetifyLogo.vue"
+  }
+}

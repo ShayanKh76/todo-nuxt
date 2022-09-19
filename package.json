@@ -1,0 +1,23 @@
+{
+  "name": "todo-nuxt",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@vue/composition-api": "^1.0.3",
+    "core-js": "^3.15.1",
+    "nuxt": "^2.15.7",
+    "vue-use-gesture": "^1.0.1",
+    "vue-use-spring": "0.0.2",
+    "vuedraggable": "^2.24.3",
+    "vuetify": "^2.5.5"
+  },
+  "devDependencies": {
+    "@nuxtjs/vuetify": "^1.12.1"
+  }
+}
